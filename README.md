@@ -76,6 +76,19 @@ This shows that Logistic Regression is a strong baseline for this classification
 
 ---
 
-## How to Run
 
-Clone the repository:
+## Future Improvements
+
+- Hyperparameter tuning
+- Feature importance analysis
+- Model comparison (SVM, Random Forest, XGBoost)
+- Deployment using FastAPI
+- Model monitoring
+
+---
+
+## Author
+
+Ishita Singh
+
+Machine Learning Enthusiast interested in AI systems and real-world ML applications.
